@@ -1,0 +1,12 @@
+{
+  "name": "grunt-check-img-damage",
+  "version": "0.1",
+  "description": "my sample grunt plugin",
+  "keywords": [
+    "gruntplugin"
+  ],
+  "homepage": "https://github.com/1000ch/grunt-image",
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
