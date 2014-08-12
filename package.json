@@ -3,9 +3,8 @@
   "version": "0.1",
   "description": "my sample grunt plugin",
   "keywords": [
-    "gruntplugin"
   ],
-  "homepage": "https://github.com/1000ch/grunt-image",
+  "homepage": "https://github.com/takuhito-h/grunt-check-img-damage/",
   "devDependencies": {
     "grunt": "~0.4.2"
   }
