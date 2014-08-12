@@ -2,6 +2,7 @@
   "name": "grunt-check-img-damage",
   "description": "my sample grunt plugin",
   "private": "true",
+  "version": "0.1.1",
   "keywords": [
   ],
   "homepage": "https://github.com/takuhito-h/grunt-check-img-damage/",
