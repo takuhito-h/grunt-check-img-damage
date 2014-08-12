@@ -1,6 +1,5 @@
 {
   "name": "grunt-check-img-damage",
-  "version": "0.1",
   "description": "my sample grunt plugin",
   "private": "true",
   "keywords": [
