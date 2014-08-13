@@ -2,11 +2,15 @@
   "name": "grunt-check-img-damage",
   "description": "my sample grunt plugin",
   "private": "true",
-  "version": "0.1.1",
-  "keywords": [
-  ],
+  "version": "0.1.2",
+  "keywords": [],
   "homepage": "https://github.com/takuhito-h/grunt-check-img-damage/",
   "devDependencies": {
     "grunt": "~0.4.2"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "grunt-check-img-damage@0.1.1",
+  "_shasum": "6fddbf300047e5fde3c4f9ed4472a5eb476962b2",
+  "_resolved": "git://github.com/takuhito-h/grunt-check-img-damage#0fcf76413d193e06e96e68d3c97d55777cc3bd92",
+  "_from": "grunt-check-img-damage@git://github.com/takuhito-h/grunt-check-img-damage"
 }
